@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning about basics of programming<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zynaeth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nejatrahmansyah3@gmail.com) 
 
